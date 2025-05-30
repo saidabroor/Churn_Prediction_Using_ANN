@@ -3,4 +3,4 @@ numpy
 scikit-learn
 matplotlib
 streamlit
-tensorflow == 2.19.0
+tensorflow == 2.15.0
